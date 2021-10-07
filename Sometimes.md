@@ -12,9 +12,8 @@
 
 ### 1. Not enough space to test bad characters.<a name="NES-BC"></a>
 
-Sometime, if you didn't have enough size to test all the bad characters in one shot.
- 
-To overcome this, you can comment all the badchars line, and send the maximum badchars size possible at a time.
+Sometime, you haven't enough space (size) to test all the bad characters in one shot in this case,  
+to overcome this, you can comment all the badchars line, and send the maximum badchars size as possible at a time.
 
 
 ### 2. Not enough space for the shellcode.<a name="NES-Shellcode"></a>
