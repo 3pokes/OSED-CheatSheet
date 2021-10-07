@@ -51,8 +51,8 @@ Bookmarks :
 
 ### 3. Search Functionality.<a name="Search"></a>
 
-Search for a string :
-- We can search for a string using the text option in the Search menu.
+Search for string :
+- We can search for a specific string using the text option in the Search menu.
 - We can likewise search for an immediate value, such as a hardcoded DWORD or a specific sequence of bytes, from the Search menu or by using "ALT + I" and "ALT + B", respectively.
 
 Search for function :
